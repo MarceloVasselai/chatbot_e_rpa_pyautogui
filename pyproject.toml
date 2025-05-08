@@ -8,6 +8,7 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.11,<3.13"
 dependencies = [
+    "pyautogui (>=0.9.54,<0.10.0)"
 ]
 
 
